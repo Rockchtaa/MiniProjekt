@@ -1,0 +1,33 @@
+{
+  "students": [
+    {
+      "name": "michaelle",
+      "date": "2005-08-15",
+      "note": 18,
+      "id": 1
+    },
+    {
+      "name": "miles kopfer",
+      "date": "2020-08-15",
+      "note": 9,
+      "id": 3
+    },
+    {
+      "name": "yassine el-brahmi",
+      "date": "2002-02-15",
+      "note": 5,
+      "id": 4
+    },
+    {
+      "id": "1914",
+      "name": "yassine eoa",
+      "age": "1000-10-01",
+      "note": "1"
+    },
+    {
+      "id": "01e7",
+      "name": "yassine js",
+      "note": "2"
+    }
+  ]
+}
