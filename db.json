@@ -1,34 +1,22 @@
 {
   "students": [
     {
-      "id": "1",
+      "id": 1,
       "name": "michaelle",
       "date": "2005-08-15",
       "note": 18
     },
     {
-      "id": "2",
+      "id": 2,
       "name": "samuele",
       "date": "2005-08-15",
-      "note": 18
+      "note": "18"
     },
     {
-      "id": "aec2",
       "name": "yassine",
-      "date": "1111-01-01",
-      "note": "1"
-    },
-    {
-      "id": "1512",
-      "name": "yassine",
-      "date": "2002-01-01",
-      "note": "25"
-    },
-    {
-      "id": "626f",
-      "name": "yassine",
-      "date": "2000-01-01",
-      "note": "2"
+      "date": "2001-01-01",
+      "note": "10",
+      "id": 3
     }
   ]
 }
