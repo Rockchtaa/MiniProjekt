@@ -11,7 +11,6 @@ export default class Student {
   static allStudents = async function () {
     const response = await fetch(ENDPOINT);
     const students = await response.json();
-
     return students;
   };
 
